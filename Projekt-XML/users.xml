@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<user_list>
+		<user>
+			<username>Osoba1</username>
+			<password>12345</password>
+			<ime>Ime I Prezime</ime>
+		    <prezime>1</prezime>
+			
+		</user>
+		<user>
+			<username>Osoba2</username>
+			<password>12345</password>
+			<ime>Ime i Prezime</ime>
+		    <prezime>2</prezime>
+		</user>
+	</user_list>
+
+	<macke>
+		<macka>
+			<slika>
+				<img src="img/macka1.jpg"/>
+			</slika>
+			<ime> Loki</ime>
+			<vrsta>Sijamska mačka</vrsta>
+			<boja>plava, lila, čokoladna, krem, boja cimeta, fawn</boja>
+			<starost>3</starost>
+			<opis>Sijamske mačke su prilično aktivne i energične te se vole bilo kakvu tjelesnu aktivnost, stoga uvijek pronađite neko vrijeme u danu za igru sa svojom mačkom. Vrijeme za igru ispunjava potrebe vašeg mačića za tjelesnom aktivnošću i daje vam izvrsnu priliku da se povežete s njim.</opis>
+		</macka>
+		<macka>
+			<slika>
+				<img src="img/macka2.jpg"/>
+			</slika>
+			<ime> Rocky</ime>
+			<vrsta>Abesinska mačka</vrsta>
+			<boja>rumena</boja>
+			<starost>4</starost>
+			<opis>Abesinske mačke su elegantne srednje velike mačke snažnog, gipkog tijela i dugih, vitkih nogu. Imaju okrugle glave klinastog oblika s karakterističnim malim čupercima na vrhovima ušiju i velike bademaste oči. Kratka, pripijena dlaka abesinske mačke ima prepoznatljiv "štikirani" izgled uzrokovan prugama boje na svakoj dlaci.  </opis>
+		</macka>
+		<macka>
+			<slika>
+				<img src="img/macka3.png"/>
+			</slika>
+			<ime>Snoop Buljo</ime>
+			<vrsta>Perzijska mačka</vrsta>
+			<boja>egzotične smoke boje</boja>
+			<starost>1</starost>
+			<opis>Duga, mekana dlaka s puno poddlake jedna je od karakteristika perzijske mačke. Nije svaka mačka s dugom dlakom perzijska mačka. Izgled perzijske mačke oblikuju tri udruge uzgajivača koje daju prioritet različitim osobinama. </opis>
+		</macka>
+
+	</macke>
+</data>

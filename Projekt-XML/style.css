@@ -1,0 +1,97 @@
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#log {
+    display: flex;
+    width: 40%;
+    height: 400px;
+    align-self: center;
+    justify-content: center;
+    background-image: url("img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#users {
+    background-image: url("img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 100vw;
+    align-self: center;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+#ulogirani {
+    display: flex;
+    width: 40%;
+    height: 40px;
+    align-self: center;
+    justify-content: center;
+    background-image: url("img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+#us1, #us2 {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#space {
+    width: 50px;
+}
+
+tr {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    border: none;
+    height: 30px;
+}
+
+.but {
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}

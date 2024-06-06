@@ -1,0 +1,62 @@
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+    font-family: "Quicksand", sans-serif;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3,h4,p{
+    margin:6px;
+}
+
+a{
+    margin:6px;
+    text-decoration: none;
+    color:black;
+}
+
+#macke {
+    display: flex;
+    width: 60%;
+    height: auto;
+    align-self: center;
+    justify-content: center;
+    background-image: url("img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+#logoff{
+    display: flex;
+    width: 10%;
+    height: auto;
+    align-self: center;
+    justify-content: center;
+    background-image: url("img/bg-login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+.macka{
+    width:30%;
+    margin:10px;
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+}
